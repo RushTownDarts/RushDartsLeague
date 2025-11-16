@@ -124,6 +124,22 @@
     </table>
 </div>
 
+<!-- Fixtures Table -->
+<h2>Fixtures</h2>
+<div class="table-container">
+    <table id="fixturesTable">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Match</th>
+                <th>Venue</th>
+                <th>Follow</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
 <script>
     const version = Date.now();
 
@@ -204,8 +220,29 @@
             tbody.insertAdjacentHTML("beforeend", row);
         });
     };
+
+    // Fixtures Table
+    const fixturesScript = document.createElement('script');
+    fixturesScript.src = `fixtures.js?v=${version}`;
+    document.head.appendChild(fixturesScript);
+
+    fixturesScript.onload = function() {
+        const tbody = document.querySelector("#fixturesTable tbody");
+        tbody.innerHTML = "";
+
+        fixtures.forEach(f => {
+            const row = `
+                <tr>
+                    <td>${f.date}</td>
+                    <td>${f.match}</td>
+                    <td>${f.venue}</td>
+                    <td><a href="${f.link}" target="_blank">Follow</a></td>
+                </tr>
+            `;
+            tbody.insertAdjacentHTML("beforeend", row);
+        });
+    };
 </script>
 
 </body>
 </html>
-
