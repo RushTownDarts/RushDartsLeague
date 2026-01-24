@@ -13,7 +13,12 @@ const matches = [
   { date: "09-01-2026", teamA: "Cricket", scoreA: 5, teamB: "Top Shop", scoreB: 3 },
 { date: "16-01-2026", teamA: "Cilles B", scoreA: 7, teamB: "Top Shop", scoreB: 1},
   { date: "16-01-2026", teamA: "Strand", scoreA: 7, teamB: "Round Towers", scoreB: 1},
-  { date: "16-01-2026", teamA: "Rivervalley", scoreA: 3, teamB: "Cricket", scoreB: 5 }
+  { date: "16-01-2026", teamA: "Rivervalley", scoreA: 3, teamB: "Cricket", scoreB: 5 },
+  { date: "23-01-2026", teamA: "Rivervalley", scoreA: 2, teamB: "Strand", scoreB: 6  },
+  { date: "23-01-2026", teamA: "Cilles B", scoreA: 2, teamB: "Cricket", scoreB: 6  },
+  { date: "23-01-2026", teamA: "Top Shop", scoreA: 2, teamB: "Cilles A", scoreB: 6  }
+  
+  
   
   
   
