@@ -4,6 +4,12 @@ const highs = [
     { player: "John Fitzgerald", team: "Cilles A", hit: 1 },
     { player: "Carl Murphy", team: "Strand", hit: 1 },
      { player: "Nigel Donnelly", team: "Cilles A", hit: 1 },
-     { player: "Bryan Campbell", team: "Rivervalley", hit: 1 }
+     { player: "Bryan Campbell", team: "Rivervalley", hit: 1 },
+    { player: "Andy Fagan", team: "Rivervalley", hit: 1 },
+    { player: "Derek Barry", team: "Cilles A", hit: 1 },
+    { player: "Anto Caldwell", team: "Cricket", hit: 1 }
+    
+    
+    
     
 ];
