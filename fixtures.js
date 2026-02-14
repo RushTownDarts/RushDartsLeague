@@ -170,7 +170,7 @@ const fixtures = [
   {
     "date": "20-Feb",
     "match": "River Valley Darts Team vs Round Towers",
-    "venue": "Rivervalley Community Centre Bar",
+    "venue": "Round Towers Lusk",
     "link": "https://www.dartsatlas.com/seasons/6sgqCZzg2Lk2/matchup/XyVhaD0tNwh7"
   },
   {
