@@ -11,7 +11,9 @@ const highs = [
     { player: "Mairead Cahill", team: "Towers", hit: 1 },
     { player: "Ian Murphy", team: "Towers", hit: 1 },
     { player: "Aaron Lowndes", team: "Cilles A", hit: 1 },
-    { player: "Will Lawor", team: "Cilles B", hit: 1 }
+    { player: "Will Lawor", team: "Cilles B", hit: 1 },
+    { player: "Sean Wade", team: "Strand", hit: 1 }
+     
      
      
     
