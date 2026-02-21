@@ -12,7 +12,11 @@ const highs = [
     { player: "Ian Murphy", team: "Towers", hit: 1 },
     { player: "Aaron Lowndes", team: "Cilles A", hit: 1 },
     { player: "Will Lawor", team: "Cilles B", hit: 1 },
-    { player: "Sean Wade", team: "Strand", hit: 1 }
+    { player: "Sean Wade", team: "Strand", hit: 1 },
+    { player: "Cian Sweeney", team: "Rivervalley", hit: 1 },
+    { player: "Aaron Smith", team: "Cricket", hit: 1 },
+    { player: "SeanGoslin", team: "Cilles B", hit: 1 }
+     
      
      
      
