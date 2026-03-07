@@ -5,7 +5,7 @@ const results = [
     { team: "Rivervalley", won: 0, draw: 5, lost: 5 },
     { team: "Top Shop", won: 3, draw: 2, lost: 5},
     { team: "Strand", won: 9, draw: 1, lost: 1},
-     { team: "Cricket", won: t, draw: 3, lost: 2},
+     { team: "Cricket", won: 5, draw: 3, lost: 2},
      { team: "Round Towers", won: 0, draw: 3, lost: 8 },
     
 ];
