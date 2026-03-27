@@ -16,7 +16,9 @@ const highs = [
     { player: "Cian Sweeney", team: "Rivervalley", hit: 1 },
     { player: "Aaron Smith", team: "Cricket", hit: 1 },
     { player: "Sean Goslin", team: "Cilles B", hit: 1 },
-    { player: "Rory Clarke", team: "Cricket", hit: 1 }
+    { player: "Rory Clarke", team: "Cricket", hit: 1 },
+    { player: "Thomas Fay", team: "Cricket", hit: 1 }
+    
      
      
      
