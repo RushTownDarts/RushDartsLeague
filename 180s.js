@@ -2,9 +2,9 @@ const highs = [
     // Example template for when a player hits a 180:
     // { player: "Player Name", team: "Team Name", hit: 1 }
      { player: "John Fitzgerald", team: "Cilles A", hit: 3 },
-    { player: "Jacko", team: "Strand", hit: 2 },
+    { player: "Jacko", team: "Strand", hit: 5 },
     { player: "Anto Caldwell", team: "Cricket", hit: 2 },
-    { player: "Carl Murphy", team: "Strand", hit: 1 },
+    { player: "Carl Murphy", team: "Strand", hit: 2 },
      { player: "Nigel Donnelly", team: "Cilles A", hit: 1 },
      { player: "Bryan Campbell", team: "Rivervalley", hit: 1 },
     { player: "Andy Fagan", team: "Rivervalley", hit: 1 },
